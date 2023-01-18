@@ -1,0 +1,31 @@
+{
+  "name": "crud-hapijs-mysql",
+  "version": "1.0.0",
+  "description": "latihan membuat API menggunakan framework hapi js dan database mysql",
+  "main": "\u001b[D\u001b[C\u001b[C\u001b[D\u001b[D\u001b[D\u001b[D\u001b[\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[app.js",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adit-oscar/crud-hapijs-mysql.git"
+  },
+  "keywords": [
+    "Restfull",
+    "API",
+    "Hapi",
+    "JS",
+    "Mysql"
+  ],
+  "author": "Aditiya Warman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adit-oscar/crud-hapijs-mysql/issues"
+  },
+  "homepage": "https://github.com/Adit-oscar/crud-hapijs-mysql#readme",
+  "devDependencies": {
+    "@hapi/hapi": "^21.2.0",
+    "mysql2": "^3.0.1",
+    "nodemon": "^2.0.20"
+  }
+}
